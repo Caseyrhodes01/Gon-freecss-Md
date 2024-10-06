@@ -13,7 +13,7 @@ module.exports = { session: process.env.SESSION_ID || 'eyJub2lzZUtleSI6eyJwcml2Y
     NUMERO_OWNER : process.env.OWNER_NUMBER || "254112192119",              
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "oui",
     AUTO_DOWNLOAD_STATUS: process.env.AUTO_DOWNLOAD_STATUS || 'non',
-    BOT : process.env.BOT_NAME || 'GON-FREECSS-MD',
+    BOT : process.env.BOT_NAME || 'CASEYRHODES-MD',
     OPENAI_API_KEY : process.env.OPENAI_API_KEY || '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',
     URL : process.env.BOT_MENU_LINKS || 'https://i.imgur.com/WEaLzHn.jpeg',
     MODE: process.env.PUBLIC_MODE || "no",
